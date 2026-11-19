@@ -1,1 +1,1 @@
-# SystemVerilog-UART-Transceiver
+# RISC-V SoC with Hardware Cryptographic Accelerator
